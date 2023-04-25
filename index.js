@@ -11,7 +11,7 @@ module.exports = {
 		},
 	},
 	rules: {
-		// violating the rules of hooks leads to really bad errors
+		// violating hook dependencies is dangerous and can lead to hidden errors that are very hard to debug
 		"react-hooks/exhaustive-deps": "error",
 		// we don't use this
 		"react/display-name": "off",
