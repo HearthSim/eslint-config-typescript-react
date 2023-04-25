@@ -11,6 +11,8 @@ module.exports = {
 		},
 	},
 	rules: {
+		// violating the rules of hooks leads to really bad errors
+		"react-hooks/exhaustive-deps": "error",
 		// we don't use this
 		"react/display-name": "off",
 		// not great, but otherwise we get false positives with <Trans> (localization)
