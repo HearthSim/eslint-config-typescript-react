@@ -1,6 +1,6 @@
 {
   "name": "@hearthsim/eslint-config-typescript-react",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "HearthSim's presets for ESLint, with Typescript and React support.",
   "repository": "git@github.com:HearthSim/eslint-config-typescript-react.git",
   "author": "Benedict Etzel <benedict@hearthsim.net>",
