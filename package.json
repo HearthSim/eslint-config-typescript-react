@@ -20,7 +20,7 @@
     "typescript": ">=2.8.0"
   },
   "dependencies": {
-    "@hearthsim/eslint-config-typescript": "^2.0.0",
+    "@hearthsim/eslint-config-typescript": "^2.0.3",
     "@typescript-eslint/parser": "5.4.0",
     "eslint-config-prettier": "^8.3.0"
   },

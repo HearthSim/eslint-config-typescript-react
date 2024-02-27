@@ -17,10 +17,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@hearthsim/eslint-config-typescript@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@hearthsim/eslint-config-typescript/-/eslint-config-typescript-2.0.0.tgz#a309eaf2db3a9d57df3722d964945749f2a4c061"
-  integrity sha512-kkATX+C1KNBIixbWJIDjEVi0s8GuhAgdZ7WVnCt08urFhyd63ykPq+0HB4uyO51dl+ox30/exSBj7FUJyZIPFA==
+"@hearthsim/eslint-config-typescript@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@hearthsim/eslint-config-typescript/-/eslint-config-typescript-2.0.3.tgz#f76ba5f14b84ea67877ef4aef92ada7b143b0f9f"
+  integrity sha512-55596i9wvngprjr7E+9EYn3BHIfbexXO2JH4EYbE8tQHBgT4C49ruD6jEah4k6qE232+FebmRYXpGxl+iNVguQ==
   dependencies:
     "@typescript-eslint/parser" "5.4.0"
     eslint-config-prettier "^8.3.0"
